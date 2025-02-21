@@ -1,0 +1,592 @@
+[
+    {
+      "Custom Block": 1,
+      "Name": "Plastics 1",
+      "Vehicle Type": "Flat",
+      "Aisles": "C20, C22-33",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "C20, C22-33"
+    },
+    {
+      "Custom Block": 2,
+      "Name": "Plastics 2",
+      "Vehicle Type": "Flat",
+      "Aisles": "C34-39, C40, C41",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "C34-39, C40, C41"
+    },
+    {
+      "Custom Block": 3,
+      "Name": "Paper 1",
+      "Vehicle Type": "Flat",
+      "Aisles": "A61, G1",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "A61, G1"
+    },
+    {
+      "Custom Block": 4,
+      "Name": "Paper 2",
+      "Vehicle Type": "Flat",
+      "Aisles": "G2, G3, G44",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "G2, G3, G44"
+    },
+    {
+      "Custom Block": 5,
+      "Name": "Entertainment",
+      "Vehicle Type": "Cage",
+      "Aisles": "F24-34",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "F24-34"
+    },
+    {
+      "Custom Block": 6,
+      "Name": "Electronics",
+      "Vehicle Type": "Cage",
+      "Aisles": "F1-23, F70-72",
+      "SSZs": 9,
+      "Top": "F`1-23",
+      "Middle": "———",
+      "Bottom": "RP #9"
+    },
+    {
+      "Custom Block": 7,
+      "Name": "Transition",
+      "Vehicle Type": "Pallet",
+      "Aisles": "NONE",
+      "SSZs": "30, 31, 40",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "RP #30, #31, #40"
+    },
+    {
+      "Custom Block": 13,
+      "Name": "A&A Perf and Int",
+      "Vehicle Type": "Pallet",
+      "Aisles": "NONE",
+      "SSZs": "13, 20",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "RP #13, RP #20"
+    },
+    {
+      "Custom Block": 14,
+      "Name": "A&A Womens",
+      "Vehicle Type": "Pallet",
+      "Aisles": "NONE",
+      "SSZs": 14,
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "RP #14"
+    },
+    {
+      "Custom Block": 15,
+      "Name": "A&A Kids",
+      "Vehicle Type": "Pallet",
+      "Aisles": "NONE",
+      "SSZs": 15,
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "RP #15"
+    },
+    {
+      "Custom Block": 16,
+      "Name": "A&A Hanging",
+      "Vehicle Type": "Pallet",
+      "Aisles": "NONE",
+      "SSZs": 16,
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "RP #16"
+    },
+    {
+      "Custom Block": 20,
+      "Name": "Paper Light",
+      "Vehicle Type": "UBoat",
+      "Aisles": "A60, G4, G5",
+      "SSZs": "——",
+      "Top": "A60",
+      "Middle": "G4",
+      "Bottom": "G5"
+    },
+    {
+      "Custom Block": 21,
+      "Name": "Diapers and Wipes",
+      "Vehicle Type": "Flat",
+      "Aisles": "O12-14",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "O12-14"
+    },
+    {
+      "Custom Block": 22,
+      "Name": "Baby Bulk",
+      "Vehicle Type": "Flat",
+      "Aisles": "O3-8",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "O3-8"
+    },
+    {
+      "Custom Block": 23,
+      "Name": "Baby Light",
+      "Vehicle Type": "UBoat",
+      "Aisles": "O1-2,O9-11",
+      "SSZs": 10,
+      "Top": "RP #10",
+      "Middle": "O9-11",
+      "Bottom": "O1-2"
+    },
+    {
+      "Custom Block": 24,
+      "Name": "Pet Bulk",
+      "Vehicle Type": "Flat",
+      "Aisles": "F69, F68",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "F69, F68"
+    },
+    {
+      "Custom Block": 25,
+      "Name": "Pet Light",
+      "Vehicle Type": "UBoat",
+      "Aisles": "F35-44",
+      "SSZs": "——",
+      "Top": "F41-44",
+      "Middle": "F38-40",
+      "Bottom": "F35-37"
+    },
+    {
+      "Custom Block": 26,
+      "Name": "Chemicals 1",
+      "Vehicle Type": "UBoat",
+      "Aisles": "A37-39",
+      "SSZs": "——",
+      "Top": "A39",
+      "Middle": "A38",
+      "Bottom": "A37"
+    },
+    {
+      "Custom Block": 27,
+      "Name": "Chemicals 2",
+      "Vehicle Type": "UBoat",
+      "Aisles": "A40-42",
+      "SSZs": "——",
+      "Top": "A42",
+      "Middle": "A41",
+      "Bottom": "A40"
+    },
+    {
+      "Custom Block": 28,
+      "Name": "Chemicals 3",
+      "Vehicle Type": "UBoat",
+      "Aisles": "A43-45",
+      "SSZs": "——",
+      "Top": "A45",
+      "Middle": "A44",
+      "Bottom": "A43"
+    },
+    {
+      "Custom Block": 29,
+      "Name": "Chemicals 4",
+      "Vehicle Type": "UBoat",
+      "Aisles": "A46-47",
+      "SSZs": "——",
+      "Top": "A47",
+      "Middle": "———",
+      "Bottom": "A46"
+    },
+    {
+      "Custom Block": 30,
+      "Name": "Chemicals 5",
+      "Vehicle Type": "UBoat",
+      "Aisles": "A63-64",
+      "SSZs": "——",
+      "Top": "A64",
+      "Middle": "———",
+      "Bottom": "A63"
+    },
+    {
+      "Custom Block": 31,
+      "Name": "Haircare",
+      "Vehicle Type": "UBoat",
+      "Aisles": "A19-24",
+      "SSZs": 12,
+      "Top": "RP #12",
+      "Middle": "A22-24",
+      "Bottom": "A19-21"
+    },
+    {
+      "Custom Block": 32,
+      "Name": "Masculine HBA",
+      "Vehicle Type": "UBoat",
+      "Aisles": "A25-32, A35-36",
+      "SSZs": "——",
+      "Top": "A35-36",
+      "Middle": "A25-28",
+      "Bottom": "A29-32"
+    },
+    {
+      "Custom Block": 33,
+      "Name": "Feminine HBA",
+      "Vehicle Type": "UBoat",
+      "Aisles": "A33-34",
+      "SSZs": 22,
+      "Top": "RP #22",
+      "Middle": "A34",
+      "Bottom": "A33"
+    },
+    {
+      "Custom Block": 34,
+      "Name": "OTC 1",
+      "Vehicle Type": "UBoat",
+      "Aisles": "A48-53",
+      "SSZs": 1,
+      "Top": "A52-53, RP #1",
+      "Middle": "A50-51",
+      "Bottom": "A48-49"
+    },
+    {
+      "Custom Block": 35,
+      "Name": "OTC 2",
+      "Vehicle Type": "UBoat",
+      "Aisles": "A54-59, A62",
+      "SSZs": "5, 21",
+      "Top": "RP #5, RP #21",
+      "Middle": "A56-59",
+      "Bottom": "A62, A54-56"
+    },
+    {
+      "Custom Block": 36,
+      "Name": "Market 1",
+      "Vehicle Type": "UBoat",
+      "Aisles": "G18,G19,G20",
+      "SSZs": "——",
+      "Top": "G20",
+      "Middle": "G19",
+      "Bottom": "G18"
+    },
+    {
+      "Custom Block": 37,
+      "Name": "Market 2",
+      "Vehicle Type": "UBoat",
+      "Aisles": "G21,G22",
+      "SSZs": "——",
+      "Top": "G22",
+      "Middle": "———",
+      "Bottom": "G21"
+    },
+    {
+      "Custom Block": 38,
+      "Name": "Market 3",
+      "Vehicle Type": "UBoat",
+      "Aisles": "G23,G24",
+      "SSZs": "——",
+      "Top": "G24",
+      "Middle": "———",
+      "Bottom": "G23"
+    },
+    {
+      "Custom Block": 39,
+      "Name": "Market 4",
+      "Vehicle Type": "UBoat",
+      "Aisles": "G25,G26",
+      "SSZs": "——",
+      "Top": "G26",
+      "Middle": "———",
+      "Bottom": "G25"
+    },
+    {
+      "Custom Block": 40,
+      "Name": "Market 5",
+      "Vehicle Type": "UBoat",
+      "Aisles": "G27,G28",
+      "SSZs": "——",
+      "Top": "G28",
+      "Middle": "———",
+      "Bottom": "G27"
+    },
+    {
+      "Custom Block": 41,
+      "Name": "Market 6",
+      "Vehicle Type": "UBoat",
+      "Aisles": "G29,G30",
+      "SSZs": "——",
+      "Top": "G30",
+      "Middle": "———",
+      "Bottom": "G29"
+    },
+    {
+      "Custom Block": 42,
+      "Name": "Market 7",
+      "Vehicle Type": "UBoat",
+      "Aisles": "G31,G32",
+      "SSZs": "——",
+      "Top": "G32",
+      "Middle": "———",
+      "Bottom": "G31"
+    },
+    {
+      "Custom Block": 43,
+      "Name": "Market 8",
+      "Vehicle Type": "UBoat",
+      "Aisles": "G33,G34",
+      "SSZs": "——",
+      "Top": "G34",
+      "Middle": "———",
+      "Bottom": "G33"
+    },
+    {
+      "Custom Block": 44,
+      "Name": "Market 9",
+      "Vehicle Type": "UBoat",
+      "Aisles": "G35,G36,G37",
+      "SSZs": 7,
+      "Top": "G37",
+      "Middle": "G36",
+      "Bottom": "G35"
+    },
+    {
+      "Custom Block": 45,
+      "Name": "Beverage",
+      "Vehicle Type": "Flat",
+      "Aisles": "G40",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "G40"
+    },
+    {
+      "Custom Block": 50,
+      "Name": "Mini Seasonal",
+      "Vehicle Type": "Flat",
+      "Aisles": "F45-52, F66, F67",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "F45-52, F66, F67"
+    },
+    {
+      "Custom Block": 51,
+      "Name": "",
+      "Vehicle Type": "UBoat",
+      "Aisles": "F55-57",
+      "SSZs": "17",
+      "Top": "55",
+      "Middle": "F67",
+      "Bottom": "F57, RP #17"
+    },
+    {
+      "Custom Block": 52,
+      "Name": "ODL Bulk",
+      "Vehicle Type": "Flat",
+      "Aisles": "F53-54, F58-65, G38-39",
+      "SSZs": "——",
+      "Top": "F53-54",
+      "Middle": "F58-65",
+      "Bottom": "G38-39"
+    },
+    {
+      "Custom Block": 53,
+      "Name": "Sport Light",
+      "Vehicle Type": "UBoat",
+      "Aisles": "E27-33, E42",
+      "SSZs": "——",
+      "Top": "E27-30",
+      "Middle": "E31-33",
+      "Bottom": "E42"
+    },
+    {
+      "Custom Block": 54,
+      "Name": "Sport Bulk",
+      "Vehicle Type": "Flat",
+      "Aisles": "E23-26, E34-39",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "E23-28, E34-39"
+    },
+    {
+      "Custom Block": 55,
+      "Name": "Appliances",
+      "Vehicle Type": "Flat",
+      "Aisles": "B20, B45, C21",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "B20, B45, C21"
+    },
+    {
+      "Custom Block": 56,
+      "Name": "Kitchen 1",
+      "Vehicle Type": "UBoat",
+      "Aisles": "B21-30",
+      "SSZs": 4,
+      "Top": "B28-30",
+      "Middle": "B24-26",
+      "Bottom": "B21-23"
+    },
+    {
+      "Custom Block": 57,
+      "Name": "Kitchen 2",
+      "Vehicle Type": "UBoat",
+      "Aisles": "B31-41",
+      "SSZs": "——",
+      "Top": "B41",
+      "Middle": "B36-40",
+      "Bottom": "B31-35"
+    },
+    {
+      "Custom Block": 58,
+      "Name": "Stationery 1",
+      "Vehicle Type": "UBoat",
+      "Aisles": "B1-10, B42",
+      "SSZs": 6,
+      "Top": "B42, RP #6",
+      "Middle": "B7-10",
+      "Bottom": "B1-6"
+    },
+    {
+      "Custom Block": 59,
+      "Name": "Stationery 2",
+      "Vehicle Type": "UBoat",
+      "Aisles": "B11-19",
+      "SSZs": "——",
+      "Top": "B17-19",
+      "Middle": "B14-16",
+      "Bottom": "B11-13"
+    },
+    {
+      "Custom Block": 60,
+      "Name": "Bedding 1",
+      "Vehicle Type": "Flat",
+      "Aisles": "D1-8, D47",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "D1-8, D47"
+    },
+    {
+      "Custom Block": 61,
+      "Name": "Bedding 1",
+      "Vehicle Type": "Flat",
+      "Aisles": "D9-17",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "D9-17"
+    },
+    {
+      "Custom Block": 62,
+      "Name": "Home Repacks",
+      "Vehicle Type": "UBoat",
+      "Aisles": "CD Repacks",
+      "SSZs": 3,
+      "Top": "RP #3",
+      "Middle": "RP #3",
+      "Bottom": "RP #3"
+    },
+    {
+      "Custom Block": 63,
+      "Name": "Decor",
+      "Vehicle Type": "Flat",
+      "Aisles": "D18-46",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "D18-46"
+    },
+    {
+      "Custom Block": 64,
+      "Name": "Domestics",
+      "Vehicle Type": "Flat",
+      "Aisles": "C1-19, C42",
+      "SSZs": "——",
+      "Top": "———",
+      "Middle": "———",
+      "Bottom": "C1-19, C42"
+    },
+    {
+      "Custom Block": 65,
+      "Name": "Frontend",
+      "Vehicle Type": "UBoat",
+      "Aisles": "CL1-15, GS1-4, SC1-4, X1-4",
+      "SSZs": 18,
+      "Top": "CL, GS, SC",
+      "Middle": "X1-2",
+      "Bottom": "X3-4"
+    },
+    {
+      "Custom Block": 66,
+      "Name": "Toy 1",
+      "Vehicle Type": "UBoat",
+      "Aisles": "E1-7",
+      "SSZs": 8,
+      "Top": "E1-3",
+      "Middle": "E4-7",
+      "Bottom": "RP #8"
+    },
+    {
+      "Custom Block": 67,
+      "Name": "Toy 2",
+      "Vehicle Type": "UBoat",
+      "Aisles": "E8-14",
+      "SSZs": "——",
+      "Top": "E8-10",
+      "Middle": "E11-12",
+      "Bottom": "E13-14"
+    },
+    {
+      "Custom Block": 68,
+      "Name": "Toy 3",
+      "Vehicle Type": "UBoat",
+      "Aisles": "E15-22",
+      "SSZs": "——",
+      "Top": "E15-17",
+      "Middle": "E18-20",
+      "Bottom": "E21-22"
+    },
+    {
+      "Custom Block": 69,
+      "Name": "Toy 4",
+      "Vehicle Type": "UBoat",
+      "Aisles": "E40,E41",
+      "SSZs": "——",
+      "Top": "E40-41",
+      "Middle": "E40",
+      "Bottom": "E41"
+    },
+    {
+      "Custom Block": 70,
+      "Name": "Beauty Cases",
+      "Vehicle Type": "UBoat",
+      "Aisles": "A1-18, A66",
+      "SSZs": "——",
+      "Top": "A13-18",
+      "Middle": "A7-12",
+      "Bottom": "A1-6"
+    },
+    {
+      "Custom Block": 71,
+      "Name": "Beauty Sort",
+      "Vehicle Type": "UBoat",
+      "Aisles": "NONE",
+      "SSZs": "2, 11",
+      "Top": "RP #11",
+      "Middle": "RP #2",
+      "Bottom": "RP #2"
+    }
+  ]

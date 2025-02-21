@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+body {
+    display: grid;
+    grid-auto-flow: row;
+}
+
+.page {
+    width: 11in;
+    height: 8.5in;
+
+    box-sizing: border-box;
+
+    display: grid;
+    grid-template-areas: 
+        "cbd cbd cbd td td td td td td td"
+        "cbd cbd cbd td td td td td td td"
+        "cbd cbd cbd md md md md md md md"
+        "cbd cbd cbd md md md md md md md"
+        "ssz ssz tm bd bd bd bd bd bd bd"
+        "ssz ssz tm bd bd bd bd bd bd bd"
+        "vd vd vd vd vd vd vd vd vd vd"
+        ;
+    gap: 0.5em;
+    padding: 0.5em;
+}
+
+.page div {
+    display: grid;
+    grid-template-rows: auto 1fr;
+    align-items: center;
+}
+
+.cb-detail {
+    border: 1px solid black;
+    grid-area: cbd;
+}
+
+.tm {
+    border: 1px solid black;
+    grid-area: tm;
+}
+
+.ssz-detail {
+    border: 1px solid black;
+    grid-area: ssz;
+}
+
+.vehicle-detail {
+    border: 1px solid black;
+    grid-area: vd;
+}
+
+.top-detail {
+    border: 1px solid black;
+    grid-area: td;
+}
+.middle-detail {
+    border: 1px solid black;
+    grid-area: md;
+}
+.bottom-detail {
+    border: 1px solid black;
+    grid-area: bd;
+}
+
+h1 {
+    font-size: 8em;
+}
+
+h2 {
+    font-size: 4em;
+}
+
+h3 {
+    background: black;
+    color: white;
+}
